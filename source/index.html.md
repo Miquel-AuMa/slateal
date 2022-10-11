@@ -34,9 +34,10 @@ We have language bindings in Shell, Java and JavaScript! You can view code examp
 
 This example API documentation page was created with [Slate](https://github.com/slatedocs/slate). Feel free to edit it and use it as a base for your own API's documentation.
 
-#### Examples
+### Examples
 
 Here we can find good examples of what we can do with Slate:
+
 - [Twilio](https://www.twilio.com/docs/usage/api)
 - [Clearbit](https://dashboard.clearbit.com/docs)
 - [Admetricks](https://dev.admetricks.com/#introduccion)
